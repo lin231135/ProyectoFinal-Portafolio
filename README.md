@@ -1,12 +1,11 @@
-# React + Vite
+# Portafolio Web - Javier Linares - 231135
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portafolio personal desarrollado con **React**, **Bun** y **Vite**, donde presento mis habilidades, proyectos destacados y formas de contacto. El diseño es responsivo y está optimizado para su despliegue en servidores con rutas específicas.
 
-Currently, two official plugins are available:
+## Enlace al Portafolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Puedes ver el portafolio funcionando en el siguiente enlace:
 
-## Expanding the ESLint configuration
+[https://calicheoficial.lat/231135/portafolio/](https://calicheoficial.lat/231135/portafolio/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/99a3f995-2393-4ac2-958c-74e074e9faf0)
